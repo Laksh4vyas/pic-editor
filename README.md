@@ -35,9 +35,6 @@ Make sure you have **Python 3.7+** installed on your system.
 ```bash
 pip install streamlit pillow opencv-python numpy
 ▶️ Start the App
-bash
-Copy
-Edit
 streamlit run image_editor.py
 Once launched, a browser window will open automatically. If not, open the link shown in your terminal (http://localhost:8501 by default).
 
